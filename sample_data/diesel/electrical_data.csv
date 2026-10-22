@@ -1,0 +1,8 @@
+timestamp,vehicle_id,battery_voltage,alternator_voltage,current_draw_amps,battery_soc_percent,charging_status
+2026-10-22T09:00:00Z,2,11.75,13.8,24.0,66.0,normal
+2026-10-22T09:00:10Z,2,11.78,13.9,26.5,65.8,normal
+2026-10-22T09:00:20Z,2,11.80,13.9,28.0,65.5,normal
+2026-10-22T09:00:30Z,2,11.82,14.0,29.5,65.2,normal
+2026-10-22T09:00:40Z,2,11.80,13.9,25.0,65.0,normal
+2026-10-22T09:00:50Z,2,11.78,13.8,22.0,64.8,normal
+2026-10-22T09:01:00Z,2,11.76,13.8,20.5,64.5,normal
